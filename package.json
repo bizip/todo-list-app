@@ -1,7 +1,7 @@
 {
-  "name": "todo-list",
+  "name": "todo-list-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bizip/todo-list.git"
+    "url": "git+https://github.com/bizip/todo-list-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bizip/todo-list/issues"
+    "url": "https://github.com/bizip/todo-list-app/issues"
   },
-  "homepage": "https://github.com/bizip/todo-list#readme",
+  "homepage": "https://github.com/bizip/todo-list-app#readme",
   "dependencies": {
     "@babel/core": "^7.17.10",
     "@babel/preset-env": "^7.17.10",
